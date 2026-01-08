@@ -1,0 +1,18 @@
+{
+    "name": "dong/testpackagegitst",
+    "description": "testpackagitst",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LeBaDong",
+            "email": "badongle.2006@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dong\\Testpackagegitst\\": "src/"
+        }
+    },
+    "require": {}
+}
